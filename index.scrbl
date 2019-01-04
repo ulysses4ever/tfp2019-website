@@ -52,7 +52,7 @@ will take place on @|tfpie-start-date|.</p>
 <p>The general chairs are <a href="//www.cs.ubc.ca/~rxg/">Ron Garcia</a> (<span
 class="ubc">rxg</span>) and <a href="//williamjbowman.com">William J.
 Bowman</a> (<span class="wjb">wjb</span>).
-Contact them general questions.
+Contact them with general questions.
 For problems with this website, file a report on <a target="_blank" href="https://github.com/wilbowma/tfp2019-website">on GitHub</a>.
 </p>
 
